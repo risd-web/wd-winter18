@@ -1,13 +1,10 @@
 # Syllabus
 
-* Wintersession: WEB DESIGN; RISD GRAPH-3217
-* 1 credit
+* Wintersession: WEB DESIGN | RISD GRAPH-3217
+* 3 credits 
 * Instructors
-Section 1: Bobby Joe Smith (bsmith07@risd.edu)
-Room 408
-
-Section 2: Marie Otsuka (motsuka@risd.edu)
-Room 404
+** Section 1: Bobby Joe Smith (bsmith07@risd.edu) | Room 408
+** Section 2: Marie Otsuka (motsuka@risd.edu) | Room 404
 
 Designing for the internet requires an understanding of the unique interactive experience offered by the web medium. This introductory course will cover the technical basics of HTML, CSS, and Javascript, as well as the latest practices in web design and development. We’ll learn the tools and techniques involved in creating a website from scratch, while exploring the application of graphic design principles to web-based technology. Class time will consist of discussions of relevant readings, technical lectures, design critiques, and hands-on coding workshops.
 
