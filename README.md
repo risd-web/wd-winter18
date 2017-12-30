@@ -33,10 +33,6 @@ Designing for the internet requires an understanding of the unique interactive e
 * a willingness to explore the web in all its many forms, uses, and aesthetics
 
 
-#Lectures
-
-All lectures are posted on Google Drive.
-
 ## Software needed
 * Download [Sublime Text](https://www.sublimetext.com/3) or other HTML editor, such as [Atom](https://atom.io/)
 * Join GitHub (You are here)
@@ -48,7 +44,7 @@ All lectures are posted on Google Drive.
 * All lectures are posted on Google Drive
 
 ## Exercises and Projects
-Exercises are in-class and take-home assignments to for practicing or extending material covered in class. Projects are larger assignments to shape your own content. There will be 4 projects over the course of the semester.
+Exercises are in-class / take-home assignments for practicing or extending material covered in class. Projects are larger assignments to shape your own content. There will be 4 projects over the course of the semester.
 
 ## Readings
 Readings will be assigned every week. We will discuss the readings in class, in relation to work out in the public and by your peers. Each student must submit 1 question to the class website the night before the assigned reading is due. Questions should be oriented for in-class discussion, directed to your fellow students. Be prepared to discuss the texts in class.
@@ -66,9 +62,9 @@ Here is a [list of possible topics](https://docs.google.com/a/risd.edu/document/
 
 
 ## Grading
-* 45% Execution of Projects
+* 45% Execution of projects
 * 20% Participation in critiques, class discussions, and readings
-* 20% Execution of Exercises
+* 20% Execution of exercises
 * 15% Presentation
 
 
