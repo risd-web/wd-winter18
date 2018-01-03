@@ -32,7 +32,7 @@ Designing for the internet requires an understanding of the unique interactive e
 * basic image editing knowledge
 * a willingness to explore the web in all its many forms, uses, and aesthetics
 
-## Software needed
+## Software / accounts needed
 * Join GitHub (You are here)
 * Review Git Version control / download [GitHub Mac client](https://desktop.github.com/) and clone the class demos repository
 * Download [Sublime Text](https://www.sublimetext.com/3) or [Atom](https://atom.io/)
