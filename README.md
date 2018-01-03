@@ -50,7 +50,7 @@ All assignments are posted on the [Home](https://github.com/risd-web/wd-winter18
 Readings will be assigned every week. We will discuss the readings in class, in relation to work out in the public and by your peers. Each student must submit a brief response and 1 question to the appropriate Slack channel the night before the assigned reading is due. Your responses may also be replies to existing comments. Questions should be oriented for in-class discussion, directed to your fellow students. Be prepared to discuss the texts in class. 
 
 ## Presentation
-Each student will give a 10-15 minute presentation on a UI element. You should research your topic and present the class with a) its function, b) its aesthetics b) its history / context / implications. Format: as appropriate. Here is a [list of possible topics](https://docs.google.com/a/risd.edu/document/d/1mb4bzsV8bwZhIFoYHjmugoH28f3R903kb_wC8hhdgwo/edit?usp=sharing).
+Each student will give a 10-15 minute presentation on a UI element. You should research your topic and present the class with a) its function, b) its aesthetics b) its history / context / implications. Format: as appropriate. Here is a [list of possible topics](https://docs.google.com/spreadsheets/d/1lvXOdo6AJhGLYveICQkM4CksIfA1M4ehr-r8GrXNt6o/edit#gid=248565475).
 
 ## Resources
 * Clone/sync this repostory
