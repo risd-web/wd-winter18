@@ -41,11 +41,10 @@ Designing for the internet requires an understanding of the unique interactive e
 * Test in Google Chrome, Safari, and/or Firefox — assignments will be evaluated in Firefox
 
 ## Lectures
-* All lectures are posted on [Google Drive](https://drive.google.com/open?id=19l_cfMKDG498TPKCjukv4VPz-fwGlF6X)
+All lectures are posted on [Google Drive](https://drive.google.com/open?id=19l_cfMKDG498TPKCjukv4VPz-fwGlF6X)
 
 ## Exercises and Projects
-* All assignments are posted on the wiki [Home](https://github.com/risd-web/wd-winter18/wiki)
-Exercises are in-class / take-home assignments for practicing or extending material covered in class. Projects are larger assignments to shape your own content. There will be 4 projects over the course of the semester.
+All assignments are posted on the [Home](https://github.com/risd-web/wd-winter18/wiki) page on the Wiki. Exercises are in-class / take-home assignments for practicing or extending material covered in class. Projects are larger assignments to shape your own content. There will be 4 projects over the course of the semester.
 
 ## Readings
 Readings will be assigned every week. We will discuss the readings in class, in relation to work out in the public and by your peers. Each student must submit a brief response and 1 question to the appropriate Slack channel the night before the assigned reading is due. Your responses may also be replies to existing comments. Questions should be oriented for in-class discussion, directed to your fellow students. Be prepared to discuss the texts in class. 
