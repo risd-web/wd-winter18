@@ -38,6 +38,7 @@ Designing for the internet requires an understanding of the unique interactive e
 * Join GitHub (You are here)
 * Download [GitHub Mac client](https://desktop.github.com/) and clone the [class repository](https://github.com/risd-web/wp-fall17)
 * Join the [Slack channel](https://join.slack.com/t/wd-winter18/signup)
+* Free account at [Codecademy](https://www.codecademy.com/)
 * Test in Google Chrome, Safari, and/or Firefox — assignments will be evaluated in Firefox
 
 ## Lectures

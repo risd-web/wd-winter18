@@ -1,0 +1,19 @@
+
+main{
+	max-width: 800px;
+}
+
+header{
+	background: yellow;	
+}
+
+header:hover .menu{
+	height: 200px;
+}
+
+.menu{
+	transition: height 1s ease-in-out;
+	height: 0px;
+	overflow: hidden;
+}
+
