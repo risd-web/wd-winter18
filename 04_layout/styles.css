@@ -6,20 +6,20 @@ body{
 
 
 p{      
-        margin: 0;
-        line-height: 1.5;
+    margin: 0;
+    line-height: 1.5;
 }
 
 
 .event{
-        background: rgba(255,0,0,0.2);
-        border: 3px solid tomato;
-       /* above is shorthand for
-        border-width: 1px;
-        border-style: solid;
-        border-color: tomato;*/
-        padding: 1em;
-        box-sizing: border-box;
+    background: rgba(255,0,0,0.2);
+    border: 3px solid tomato;
+   /* above is shorthand for
+    border-width: 1px;
+    border-style: solid;
+    border-color: tomato;*/
+    padding: 1em;
+    box-sizing: border-box;
 }
 
 .event img{

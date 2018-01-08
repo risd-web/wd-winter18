@@ -59,6 +59,11 @@ article{
     padding: 1rem;
 }
 
+.article-image{
+    height: 300px;
+    overflow: hidden;
+}
+
 img{
     width: 100%;
 }
