@@ -15,7 +15,7 @@ Designing for the internet requires an understanding of the unique interactive e
 * Wed: 1/17
 * Wed: 1/31
 
-* Office Hours / Review Sessions: Fridays 10:30 – 11:30am and by appointment
+* Office Hours / Review Sessions: Fridays by appointment
 
 ## Course objectives
 * understand the technology involved in implementing a website

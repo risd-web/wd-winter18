@@ -1,0 +1,134 @@
+body{
+    font-family: 'Georgia', serif;
+    padding: 1rem 5rem;
+    margin: 0;
+}
+
+
+p{      
+        margin: 0;
+        line-height: 1.5;
+}
+
+
+.event{
+        background: rgba(255,0,0,0.2);
+        border: 3px solid tomato;
+       /* above is shorthand for
+        border-width: 1px;
+        border-style: solid;
+        border-color: tomato;*/
+        padding: 1em;
+        box-sizing: border-box;
+}
+
+.event img{
+    width: 100%;
+}
+
+section{
+    border: 5px solid blue;
+}
+
+/*Floated layout*/
+#floated{
+    overflow: auto;
+}
+#floated .event{
+    float: left;
+    width: 300px;
+    margin: 2em;
+}
+/*
+.tall{
+    height: 500px;
+}
+*/
+
+/*Inline layout*/
+#display .event{
+    width: 300px;
+    display: inline-block; /*or table-cell;*/
+}
+
+
+/*Flexbox layout*/
+#flexbox{
+    display: flex;
+}
+
+.fixed {
+   /* width: 150px;*/
+    background: yellow;
+}
+
+#flexbox .event{
+    flex: 1;
+}
+/*.col1{
+    flex: 3;
+}
+
+.col2, .col3{
+    flex: 1;
+}
+
+*/
+
+
+/*CSS Grid*/
+
+#grid{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1rem;
+}
+
+#grid .event:nth-child(7){
+    grid-column-start: 3;
+}
+
+
+
+
+/*vertical centering*/
+#centering{
+    height: 100vh;
+    background: #c8dfff;
+    display: flex;
+    align-items: center;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background: #d3c52e;
+    margin: auto;
+}
+
+li{
+    display: inline-block;
+    width: 300px;
+}
+
+
+/*li::before{
+        content: '$ ';
+}
+
+h2::after{
+        content: '*';
+}
+*/
+
+/*Responsive Design via Media Queries*/
+
+@media screen and (max-width: 1200px){
+
+}
+
+@media screen and (max-width: 600px){
+    
+
+}
+
