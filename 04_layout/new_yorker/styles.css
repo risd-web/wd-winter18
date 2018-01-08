@@ -1,6 +1,7 @@
 *{  
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
 }
 
 section{
@@ -8,6 +9,9 @@ section{
     grid-template-columns: 50% 50%;
     grid-template-rows: 500px;*/
     display: flex;
+}
+
+.hero{
     height: 500px;
 }
 
@@ -24,6 +28,13 @@ section{
     justify-content: center;
 }
 
+.text div{
+    width: 50%;
+}
+
+.info{
+    margin-bottom: 1rem;
+}
 
 h1{
     text-transform: uppercase;
@@ -38,4 +49,45 @@ h1{
     background: url('img/cover.jpg') no-repeat center center;
     background-size: cover;
 }
+
+.more-articles{
+    width: 80%;
+    margin: auto;
+}
+article{
+    flex: 1;
+    padding: 1rem;
+}
+
+img{
+    width: 100%;
+}
+
+.details{
+    margin: 1rem 0;
+    font-family: sans-serif;
+}
+
+.category{
+    color: red;
+}
+
+.date{
+    font-size: .8rem;
+    color: grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
