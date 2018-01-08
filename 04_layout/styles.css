@@ -37,18 +37,18 @@ section{
 #floated .event{
     float: left;
     width: 300px;
-    margin: 2em;
 }
-/*
+
 .tall{
     height: 500px;
 }
-*/
+
 
 /*Inline layout*/
 #display .event{
     width: 300px;
     display: inline-block; /*or table-cell;*/
+    margin: 1rem;
 }
 
 
@@ -57,23 +57,19 @@ section{
     display: flex;
 }
 
-.fixed {
-   /* width: 150px;*/
+.wide{
+    flex: 2;
+}
+
+.small{
+    flex: 1;
+}
+
+.fixed{
+    width: 200px;
     background: yellow;
 }
 
-#flexbox .event{
-    flex: 1;
-}
-/*.col1{
-    flex: 3;
-}
-
-.col2, .col3{
-    flex: 1;
-}
-
-*/
 
 
 /*CSS Grid*/
@@ -85,7 +81,9 @@ section{
 }
 
 #grid .event:nth-child(7){
-    grid-column-start: 3;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    display: none;
 }
 
 
@@ -124,11 +122,23 @@ h2::after{
 /*Responsive Design via Media Queries*/
 
 @media screen and (max-width: 1200px){
+    #floated .event{
+        width: 50%;
+        background: rgba(0,255,0,0.5);
+    }
 
+    #grid .event:nth-child(7){
+        display: block;
+    }
 }
 
-@media screen and (max-width: 600px){
-    
-
+@media screen and (max-width: 700px){
+    body {
+        padding: 1rem;
+    }
+    #floated .event{
+        width: 100%;
+        background: rgba(0,0,255,0.5);
+    }
 }
 

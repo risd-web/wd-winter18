@@ -1,0 +1,41 @@
+*{  
+    padding: 0;
+    margin: 0;
+}
+
+section{
+/*    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 500px;*/
+    display: flex;
+    height: 500px;
+}
+
+.text, .feature-img{
+    flex: 1;
+}
+
+.text{
+    background: black;
+    color: white;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+h1{
+    text-transform: uppercase;
+}
+
+.subtitle{
+    font-style: italic;
+    margin: 1rem;
+}
+
+.feature-img{
+    background: url('img/cover.jpg') no-repeat center center;
+    background-size: cover;
+}
+
