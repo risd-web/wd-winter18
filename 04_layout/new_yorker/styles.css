@@ -9,6 +9,7 @@ section{
     grid-template-columns: 50% 50%;
     grid-template-rows: 500px;*/
     display: flex;
+    flex-wrap: wrap;
 }
 
 .hero{
@@ -16,7 +17,7 @@ section{
 }
 
 .text, .feature-img{
-    flex: 1;
+    width: 50%;
 }
 
 .text{
@@ -83,7 +84,12 @@ img{
 }
 
 
+@media screen and (max-width: 800px){
+    .text, .feature-img{
+        width: 100%;
+    }
 
+}
 
 
 
