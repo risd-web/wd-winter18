@@ -1,0 +1,60 @@
+body{
+	background: #3694c5;
+	font-family: Helvetica, sans-serif;
+}
+
+.square{
+	width: 250px;
+	height: 250px;
+	background: yellow;
+	float: left;
+	margin: 10px;
+	mix-blend-mode: multiply;
+}
+
+
+#yellowsq, #bluesq{
+	background: #3694c5;
+	overflow: auto;
+}
+
+#bluesq .square{
+	background: blue;
+	width: 300px;
+	height: 300px;
+}
+
+#bluesq{
+	margin-top: -100px;
+	margin-left: 300px;
+}
+
+
+#text{
+	display: flex;
+}
+
+.left, .right{
+	flex: 1;
+}
+
+.left{
+	text-align: right;
+	margin-right: 1rem;
+}
+
+h1{
+	margin-bottom: 1rem;
+}
+
+h1,h2{
+	font-size: 2rem;
+}
+
+h2{
+	margin: 0;
+}
+
+#poster{
+	transform: rotate(30deg)
+}

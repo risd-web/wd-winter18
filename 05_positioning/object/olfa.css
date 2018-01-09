@@ -1,0 +1,106 @@
+body{
+    height: 120vh;
+}
+div {
+    box-sizing: border-box;
+}
+
+/*containing div*/
+
+.object {
+    margin: auto;
+    margin-top: 50px;
+    width: 150px;
+}
+#olfa {
+    position: relative;
+}
+
+/*Top portion of knife*/
+
+#top {
+    width: 90px;
+    position: fixed;
+    margin-left: 10px;
+}
+#knifetip {
+    width: 0;
+    height: 0;
+    border-bottom: 50px solid #333;
+    border-right: 80px solid transparent;
+}
+#knife {
+    background: #333;
+    top: 80px;
+    width: 80px;
+    height: 350px;
+}
+#edge {
+    width: 10px;
+    background: #efefef;
+    border-left: 1px solid #333;
+    height: 400px;
+}
+#edge, #blade {
+    float: left;
+}
+
+/*Bottom portion, handle and screw*/
+
+#bottom {
+    top: 300px;
+    position: absolute;
+}
+#space {
+    height: 30px;
+    width: 100%;
+}
+#holder {
+    position: absolute;
+    height: 400px;
+    width: 110px;
+}
+#sheath {
+    background: transparent;
+    border-width: 0px 20px;
+    border-color: #000;
+    border-style: solid;
+    height: 100px;
+    width: 90%;
+    margin: auto;
+}
+#handletip {
+    width: 0;
+    height: 0;
+    border-bottom: 50px solid #ffc107;
+    border-left: 110px solid transparent;
+    margin-top: -80px;
+}
+#handle {
+    background: #ffc107;
+    border-left: 8px solid #ffda3b;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 50px;
+    height: 100%;
+}
+#rail {
+    background: #333;
+    width: 30px;
+    height: 470px;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    margin-left: -15px;
+}
+#screw {
+    position: fixed;
+    top: 400px;
+    margin-left: 15px;
+    border-radius: 50%;
+    background: #000;
+    width: 80px;
+    height: 80px;
+    border: 10px dotted #333;
+}
