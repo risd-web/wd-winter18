@@ -42,8 +42,11 @@ div:nth-child(4) {
 	transform: skew(-20deg);
 	background: tomato;
 }
-
-div:nth-child(6) {
+div:nth-child(6){
+	transition: all .5s ease-in;
+}
+div:nth-child(6):hover {
+	background: yellow;
 	transform: rotate(20deg) scale(3);
 }
 

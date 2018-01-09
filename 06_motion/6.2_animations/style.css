@@ -29,7 +29,7 @@ body {
 div:first-child {
 	border-radius: 50%;
 	border: 7px dashed purple;
-	/*box-sizing: border-box;*/
+	animation: rotate 1s linear infinite alternate;
 }
 
 div:nth-child(3n) {
@@ -51,3 +51,14 @@ div:last-child {
 	transform: translate(30px,30px);
 	background: blue;
 }
+
+
+@keyframes rotate{
+	0%{
+		transform: rotate(0deg);
+	}
+	100%{
+		transform: rotate(360deg);
+	}
+}
+
