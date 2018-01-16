@@ -54,6 +54,11 @@ h2{
 	animation: wheel 1s ease-in-out alternate infinite;
 }
 
+.a{
+	display: none;
+}
+
+
 @keyframes wheel {
 	0% {
 		transform: rotateY(0deg);
