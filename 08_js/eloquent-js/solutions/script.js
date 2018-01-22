@@ -21,19 +21,20 @@ for (var n = 1; n <= 100; n++) {
 
 //Exercise 2.3
 
-var size = 10;
+var size = 5;
 
 var board = "";
 
 for (var y = 0; y < size; y++) {
   for (var x = 0; x < size; x++) {
-  	console.log(x + "+" + y + "=" + (x + y));
+  	console.log("x(" + x + ") + y(" + y + ") =" + (x + y));
   	//adding x and y allows alternating even and odd
     if ((x + y) % 2 == 0)
       board += " ";
     else
       board += "#";
   }
+  console.log('break');
   board += "\n";
 }
 
