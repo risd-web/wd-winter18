@@ -3,7 +3,7 @@
 * Wintersession: WEB DESIGN | RISD GRAPH-3217
 * 3 credits
 * Section 1: Bobby Joe Smith (bsmith07@risd.edu) | Room 408
-* Section 2: Marie Otsuka (motsuka@risd.edu) | Room 404
+* Section 2: Marie Otsuka (motsuka@risd.edu) | Room 409
 
 Designing for the internet requires an understanding of the unique interactive experience offered by the web medium. This introductory course will cover the technical basics of HTML, CSS, and Javascript, as well as the latest practices in web design and development. We’ll learn the tools and techniques involved in creating a website from scratch, while exploring the application of graphic design principles to web-based technology. Class time will consist of discussions of relevant readings, technical lectures, design critiques, and hands-on coding workshops.
 
@@ -50,7 +50,7 @@ All assignments are posted on the [Home](https://github.com/risd-web/wd-winter18
 Readings will be assigned every week. We will discuss the readings in class, in relation to work out in the public and by your peers. Each student must submit a brief response and 1 question to the appropriate Slack channel the night before the assigned reading is due. Your responses may also be replies to existing comments. Questions should be oriented for in-class discussion, directed to your fellow students. Be prepared to discuss the texts in class. 
 
 ## Presentation
-Each student will give a 10-15 minute presentation on a UI element. You should research your topic and present the class with a) its function, b) its aesthetics b) its history / context / implications. Format: as appropriate. Here is a [list of possible topics](https://docs.google.com/spreadsheets/d/1lvXOdo6AJhGLYveICQkM4CksIfA1M4ehr-r8GrXNt6o/edit#gid=248565475).
+Each student will give a 10-15 minute presentation on a UI element. You should research your topic and present the class with a) its function, b) its aesthetics, demonstrating a full range of its iterations, and c) its history / context / implications. Format: as appropriate. Here is a [list of possible topics](https://docs.google.com/spreadsheets/d/1lvXOdo6AJhGLYveICQkM4CksIfA1M4ehr-r8GrXNt6o/edit#gid=248565475).
 
 ## Resources
 * Clone/sync this repostory

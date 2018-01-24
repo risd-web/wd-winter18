@@ -9,6 +9,7 @@ $(document).ready(function(){
 	$('.element').click(function(){
 		console.log('element clicked');
 		$(this).toggleClass('play');
+		$(this).next().toggle();
 	});
 
 	$('h2').click(function(){

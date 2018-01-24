@@ -59,6 +59,10 @@ h2{
 }
 
 
+.pop{
+	display: none;
+}
+
 @keyframes wheel {
 	0% {
 		transform: rotateY(0deg);
