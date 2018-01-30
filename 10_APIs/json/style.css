@@ -1,0 +1,7 @@
+ul.emoji-list{
+	list-style-type: none;
+}
+
+ul.emoji-list li{
+	display: inline-block;
+}
